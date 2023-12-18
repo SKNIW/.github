@@ -2,7 +2,7 @@
 
 ---
 
-![Witelon](witelon.webp)
+![Witelon](./profile/witelon.webp)
 
 Welcome to the official GitHub repository of SKNIW, the Student Science Club at Collegium Witelona in Legnica, Poland. Our club is dedicated to fostering innovation, technology, and academic excellence among students.
 
